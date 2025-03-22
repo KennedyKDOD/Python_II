@@ -28,8 +28,8 @@ python -m venv flask_env
 source flask_env/bin/activate  # Linux/Mac
 flask_env\Scripts\activate     # Windows
 
-       3.**Instale as dependências**
-pip install flask flask-sqlalchemy flask-login python-dotenv
+3. **Instale as dependências**
+       pip install flask flask-sqlalchemy flask-login python-dotenv
 
 
 ## Execução
