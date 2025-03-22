@@ -24,12 +24,13 @@ Microblog é uma aplicação web simples desenvolvida em Flask como parte do Tra
 1.	**Clone o repositório**
 
 2. **Crie e ative um ambiente virtual**:
-python -m venv flask_env
-source flask_env/bin/activate  # Linux/Mac
-flask_env\Scripts\activate     # Windows
+	-python -m venv flask_env
+	-source flask_env/bin/activate  # Linux/Mac
+	-flask_env\Scripts\activate     # Windows
 
 3. **Instale as dependências**
-       pip install flask flask-sqlalchemy flask-login python-dotenv
+
+ 	-pip install flask flask-sqlalchemy flask-login python-dotenv
 
 
 ## Execução
